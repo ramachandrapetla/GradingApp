@@ -9,23 +9,33 @@
 /* Begin PBXBuildFile section */
 		65D8DDE128FE201E00CC5D8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDE028FE201E00CC5D8E /* AppDelegate.swift */; };
 		65D8DDE328FE201E00CC5D8E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDE228FE201E00CC5D8E /* SceneDelegate.swift */; };
-		65D8DDE528FE201E00CC5D8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDE428FE201E00CC5D8E /* ViewController.swift */; };
 		65D8DDE828FE201E00CC5D8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D8DDE628FE201E00CC5D8E /* Main.storyboard */; };
 		65D8DDEB28FE201E00CC5D8E /* Grading.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDE928FE201E00CC5D8E /* Grading.xcdatamodeld */; };
 		65D8DDED28FE201F00CC5D8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65D8DDEC28FE201F00CC5D8E /* Assets.xcassets */; };
 		65D8DDF028FE201F00CC5D8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65D8DDEE28FE201F00CC5D8E /* LaunchScreen.storyboard */; };
+		65D8DDF928FE244F00CC5D8E /* GradeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDF828FE244F00CC5D8E /* GradeVC.swift */; };
+		65D8DDFB28FE253E00CC5D8E /* AssignmentsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDFA28FE253E00CC5D8E /* AssignmentsTableViewController.swift */; };
+		65D8DDFD28FE256500CC5D8E /* ExamsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDFC28FE256500CC5D8E /* ExamsTableViewController.swift */; };
+		65D8DDFF28FE257800CC5D8E /* FinalProjectTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DDFE28FE257800CC5D8E /* FinalProjectTableViewController.swift */; };
+		65D8DE0128FE37EE00CC5D8E /* MarksEntryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DE0028FE37EE00CC5D8E /* MarksEntryVC.swift */; };
+		65D8DE0328FEE59500CC5D8E /* GradeItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8DE0228FEE59500CC5D8E /* GradeItemTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		65D8DDDD28FE201E00CC5D8E /* Grading.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Grading.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D8DDE028FE201E00CC5D8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65D8DDE228FE201E00CC5D8E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		65D8DDE428FE201E00CC5D8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		65D8DDE728FE201E00CC5D8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		65D8DDEA28FE201E00CC5D8E /* Grading.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Grading.xcdatamodel; sourceTree = "<group>"; };
 		65D8DDEC28FE201F00CC5D8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65D8DDEF28FE201F00CC5D8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65D8DDF128FE201F00CC5D8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65D8DDF828FE244F00CC5D8E /* GradeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradeVC.swift; sourceTree = "<group>"; };
+		65D8DDFA28FE253E00CC5D8E /* AssignmentsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentsTableViewController.swift; sourceTree = "<group>"; };
+		65D8DDFC28FE256500CC5D8E /* ExamsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamsTableViewController.swift; sourceTree = "<group>"; };
+		65D8DDFE28FE257800CC5D8E /* FinalProjectTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectTableViewController.swift; sourceTree = "<group>"; };
+		65D8DE0028FE37EE00CC5D8E /* MarksEntryVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarksEntryVC.swift; sourceTree = "<group>"; };
+		65D8DE0228FEE59500CC5D8E /* GradeItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradeItemTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +68,9 @@
 		65D8DDDF28FE201E00CC5D8E /* Grading */ = {
 			isa = PBXGroup;
 			children = (
+				65D8DDF728FE242400CC5D8E /* controllers */,
 				65D8DDE028FE201E00CC5D8E /* AppDelegate.swift */,
 				65D8DDE228FE201E00CC5D8E /* SceneDelegate.swift */,
-				65D8DDE428FE201E00CC5D8E /* ViewController.swift */,
 				65D8DDE628FE201E00CC5D8E /* Main.storyboard */,
 				65D8DDEC28FE201F00CC5D8E /* Assets.xcassets */,
 				65D8DDEE28FE201F00CC5D8E /* LaunchScreen.storyboard */,
@@ -68,6 +78,19 @@
 				65D8DDE928FE201E00CC5D8E /* Grading.xcdatamodeld */,
 			);
 			path = Grading;
+			sourceTree = "<group>";
+		};
+		65D8DDF728FE242400CC5D8E /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				65D8DDF828FE244F00CC5D8E /* GradeVC.swift */,
+				65D8DDFA28FE253E00CC5D8E /* AssignmentsTableViewController.swift */,
+				65D8DDFC28FE256500CC5D8E /* ExamsTableViewController.swift */,
+				65D8DDFE28FE257800CC5D8E /* FinalProjectTableViewController.swift */,
+				65D8DE0028FE37EE00CC5D8E /* MarksEntryVC.swift */,
+				65D8DE0228FEE59500CC5D8E /* GradeItemTableViewCell.swift */,
+			);
+			path = controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,9 +164,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65D8DDFF28FE257800CC5D8E /* FinalProjectTableViewController.swift in Sources */,
+				65D8DDF928FE244F00CC5D8E /* GradeVC.swift in Sources */,
+				65D8DE0328FEE59500CC5D8E /* GradeItemTableViewCell.swift in Sources */,
 				65D8DDEB28FE201E00CC5D8E /* Grading.xcdatamodeld in Sources */,
-				65D8DDE528FE201E00CC5D8E /* ViewController.swift in Sources */,
 				65D8DDE128FE201E00CC5D8E /* AppDelegate.swift in Sources */,
+				65D8DDFB28FE253E00CC5D8E /* AssignmentsTableViewController.swift in Sources */,
+				65D8DDFD28FE256500CC5D8E /* ExamsTableViewController.swift in Sources */,
+				65D8DE0128FE37EE00CC5D8E /* MarksEntryVC.swift in Sources */,
 				65D8DDE328FE201E00CC5D8E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
